@@ -1,0 +1,181 @@
+month,year,quarter,month_number,month_name,channel,spend
+2022-01,2022,Q1,1,January,Organic,10008.57
+2022-01,2022,Q1,1,January,Paid Search,47224.91
+2022-01,2022,Q1,1,January,LinkedIn Ads,30590.51
+2022-01,2022,Q1,1,January,Referral,8030.86
+2022-01,2022,Q1,1,January,Partner,16321.86
+2022-02,2022,Q1,2,February,Organic,9326.7
+2022-02,2022,Q1,2,February,Paid Search,36084.88
+2022-02,2022,Q1,2,February,LinkedIn Ads,31741.79
+2022-02,2022,Q1,2,February,Referral,8036.61
+2022-02,2022,Q1,2,February,Partner,19336.08
+2022-03,2022,Q1,3,March,Organic,8904.22
+2022-03,2022,Q1,3,March,Paid Search,47464.47
+2022-03,2022,Q1,3,March,LinkedIn Ads,31452.36
+2022-03,2022,Q1,3,March,Referral,7126.87
+2022-03,2022,Q1,3,March,Partner,16462.76
+2022-04,2022,Q2,4,April,Organic,6878.16
+2022-04,2022,Q2,4,April,Paid Search,28614.69
+2022-04,2022,Q2,4,April,LinkedIn Ads,21055.22
+2022-04,2022,Q2,4,April,Referral,5583.63
+2022-04,2022,Q2,4,April,Partner,12467.0
+2022-05,2022,Q2,5,May,Organic,7855.02
+2022-05,2022,Q2,5,May,Paid Search,27112.18
+2022-05,2022,Q2,5,May,LinkedIn Ads,19596.75
+2022-05,2022,Q2,5,May,Referral,5471.48
+2022-05,2022,Q2,5,May,Partner,13124.72
+2022-06,2022,Q2,6,June,Organic,8250.2
+2022-06,2022,Q2,6,June,Paid Search,27661.02
+2022-06,2022,Q2,6,June,LinkedIn Ads,20989.25
+2022-06,2022,Q2,6,June,Referral,5858.03
+2022-06,2022,Q2,6,June,Partner,11490.34
+2022-07,2022,Q3,7,July,Organic,7845.2
+2022-07,2022,Q3,7,July,Paid Search,27395.18
+2022-07,2022,Q3,7,July,LinkedIn Ads,18172.87
+2022-07,2022,Q3,7,July,Referral,6467.59
+2022-07,2022,Q3,7,July,Partner,15157.87
+2022-08,2022,Q3,8,August,Organic,8303.15
+2022-08,2022,Q3,8,August,Paid Search,28618.08
+2022-08,2022,Q3,8,August,LinkedIn Ads,18377.4
+2022-08,2022,Q3,8,August,Referral,6015.04
+2022-08,2022,Q3,8,August,Partner,13061.21
+2022-09,2022,Q3,9,September,Organic,6738.25
+2022-09,2022,Q3,9,September,Paid Search,30356.01
+2022-09,2022,Q3,9,September,LinkedIn Ads,17980.62
+2022-09,2022,Q3,9,September,Referral,6399.94
+2022-09,2022,Q3,9,September,Partner,12337.53
+2022-10,2022,Q4,10,October,Organic,10907.07
+2022-10,2022,Q4,10,October,Paid Search,39250.15
+2022-10,2022,Q4,10,October,LinkedIn Ads,28772.18
+2022-10,2022,Q4,10,October,Referral,7909.3
+2022-10,2022,Q4,10,October,Partner,16479.31
+2022-11,2022,Q4,11,November,Organic,11865.1
+2022-11,2022,Q4,11,November,Paid Search,45033.66
+2022-11,2022,Q4,11,November,LinkedIn Ads,32370.9
+2022-11,2022,Q4,11,November,Referral,8723.9
+2022-11,2022,Q4,11,November,Partner,18734.53
+2022-12,2022,Q4,12,December,Organic,11716.25
+2022-12,2022,Q4,12,December,Paid Search,36464.39
+2022-12,2022,Q4,12,December,LinkedIn Ads,25991.53
+2022-12,2022,Q4,12,December,Referral,6735.83
+2022-12,2022,Q4,12,December,Partner,17246.3
+2023-01,2023,Q1,1,January,Organic,10052.67
+2023-01,2023,Q1,1,January,Paid Search,38746.44
+2023-01,2023,Q1,1,January,LinkedIn Ads,31420.57
+2023-01,2023,Q1,1,January,Referral,7464.8
+2023-01,2023,Q1,1,January,Partner,17003.9
+2023-02,2023,Q1,2,February,Organic,10533.21
+2023-02,2023,Q1,2,February,Paid Search,37118.73
+2023-02,2023,Q1,2,February,LinkedIn Ads,31192.85
+2023-02,2023,Q1,2,February,Referral,6804.45
+2023-02,2023,Q1,2,February,Partner,20858.4
+2023-03,2023,Q1,3,March,Organic,11249.4
+2023-03,2023,Q1,3,March,Paid Search,37839.97
+2023-03,2023,Q1,3,March,LinkedIn Ads,24357.38
+2023-03,2023,Q1,3,March,Referral,8538.18
+2023-03,2023,Q1,3,March,Partner,19329.44
+2023-04,2023,Q2,4,April,Organic,8122.14
+2023-04,2023,Q2,4,April,Paid Search,32873.99
+2023-04,2023,Q2,4,April,LinkedIn Ads,18229.26
+2023-04,2023,Q2,4,April,Referral,5457.98
+2023-04,2023,Q2,4,April,Partner,11767.32
+2023-05,2023,Q2,5,May,Organic,8427.88
+2023-05,2023,Q2,5,May,Paid Search,31524.48
+2023-05,2023,Q2,5,May,LinkedIn Ads,19839.73
+2023-05,2023,Q2,5,May,Referral,4953.68
+2023-05,2023,Q2,5,May,Partner,12545.82
+2023-06,2023,Q2,6,June,Organic,7201.42
+2023-06,2023,Q2,6,June,Paid Search,32494.01
+2023-06,2023,Q2,6,June,LinkedIn Ads,21762.49
+2023-06,2023,Q2,6,June,Referral,6362.13
+2023-06,2023,Q2,6,June,Partner,13189.14
+2023-07,2023,Q3,7,July,Organic,6732.67
+2023-07,2023,Q3,7,July,Paid Search,32344.79
+2023-07,2023,Q3,7,July,LinkedIn Ads,22535.12
+2023-07,2023,Q3,7,July,Referral,5804.78
+2023-07,2023,Q3,7,July,Partner,14381.16
+2023-08,2023,Q3,8,August,Organic,7585.85
+2023-08,2023,Q3,8,August,Paid Search,30607.32
+2023-08,2023,Q3,8,August,LinkedIn Ads,20445.68
+2023-08,2023,Q3,8,August,Referral,4888.47
+2023-08,2023,Q3,8,August,Partner,11735.49
+2023-09,2023,Q3,9,September,Organic,6531.66
+2023-09,2023,Q3,9,September,Paid Search,31644.06
+2023-09,2023,Q3,9,September,LinkedIn Ads,19736.01
+2023-09,2023,Q3,9,September,Referral,5714.66
+2023-09,2023,Q3,9,September,Partner,14926.19
+2023-10,2023,Q4,10,October,Organic,9617.79
+2023-10,2023,Q4,10,October,Paid Search,40481.58
+2023-10,2023,Q4,10,October,LinkedIn Ads,30792.63
+2023-10,2023,Q4,10,October,Referral,7165.39
+2023-10,2023,Q4,10,October,Partner,15890.31
+2023-11,2023,Q4,11,November,Organic,9744.02
+2023-11,2023,Q4,11,November,Paid Search,37372.04
+2023-11,2023,Q4,11,November,LinkedIn Ads,32286.81
+2023-11,2023,Q4,11,November,Referral,8521.0
+2023-11,2023,Q4,11,November,Partner,18928.38
+2023-12,2023,Q4,12,December,Organic,11558.96
+2023-12,2023,Q4,12,December,Paid Search,45389.83
+2023-12,2023,Q4,12,December,LinkedIn Ads,25910.77
+2023-12,2023,Q4,12,December,Referral,8718.59
+2023-12,2023,Q4,12,December,Partner,18414.81
+2024-01,2024,Q1,1,January,Organic,11359.21
+2024-01,2024,Q1,1,January,Paid Search,46543.22
+2024-01,2024,Q1,1,January,LinkedIn Ads,27038.47
+2024-01,2024,Q1,1,January,Referral,6887.52
+2024-01,2024,Q1,1,January,Partner,16714.53
+2024-02,2024,Q1,2,February,Organic,10172.58
+2024-02,2024,Q1,2,February,Paid Search,45568.82
+2024-02,2024,Q1,2,February,LinkedIn Ads,31695.07
+2024-02,2024,Q1,2,February,Referral,6646.27
+2024-02,2024,Q1,2,February,Partner,18258.68
+2024-03,2024,Q1,3,March,Organic,10142.32
+2024-03,2024,Q1,3,March,Paid Search,38131.91
+2024-03,2024,Q1,3,March,LinkedIn Ads,25338.44
+2024-03,2024,Q1,3,March,Referral,7420.02
+2024-03,2024,Q1,3,March,Partner,20618.29
+2024-04,2024,Q2,4,April,Organic,7196.9
+2024-04,2024,Q2,4,April,Paid Search,30571.37
+2024-04,2024,Q2,4,April,LinkedIn Ads,22172.93
+2024-04,2024,Q2,4,April,Referral,5466.81
+2024-04,2024,Q2,4,April,Partner,15182.41
+2024-05,2024,Q2,5,May,Organic,8654.38
+2024-05,2024,Q2,5,May,Paid Search,28136.25
+2024-05,2024,Q2,5,May,LinkedIn Ads,20882.75
+2024-05,2024,Q2,5,May,Referral,5359.5
+2024-05,2024,Q2,5,May,Partner,12441.51
+2024-06,2024,Q2,6,June,Organic,6544.1
+2024-06,2024,Q2,6,June,Paid Search,31399.23
+2024-06,2024,Q2,6,June,LinkedIn Ads,20916.8
+2024-06,2024,Q2,6,June,Referral,4933.03
+2024-06,2024,Q2,6,June,Partner,12416.8
+2024-07,2024,Q3,7,July,Organic,8530.85
+2024-07,2024,Q3,7,July,Paid Search,28024.8
+2024-07,2024,Q3,7,July,LinkedIn Ads,18673.49
+2024-07,2024,Q3,7,July,Referral,5681.96
+2024-07,2024,Q3,7,July,Partner,15237.75
+2024-08,2024,Q3,8,August,Organic,7011.89
+2024-08,2024,Q3,8,August,Paid Search,31969.88
+2024-08,2024,Q3,8,August,LinkedIn Ads,22540.35
+2024-08,2024,Q3,8,August,Referral,5251.36
+2024-08,2024,Q3,8,August,Partner,14210.58
+2024-09,2024,Q3,9,September,Organic,7298.55
+2024-09,2024,Q3,9,September,Paid Search,31606.63
+2024-09,2024,Q3,9,September,LinkedIn Ads,21737.23
+2024-09,2024,Q3,9,September,Referral,5761.17
+2024-09,2024,Q3,9,September,Partner,11665.26
+2024-10,2024,Q4,10,October,Organic,11446.14
+2024-10,2024,Q4,10,October,Paid Search,39363.34
+2024-10,2024,Q4,10,October,LinkedIn Ads,25910.33
+2024-10,2024,Q4,10,October,Referral,6725.41
+2024-10,2024,Q4,10,October,Partner,18696.28
+2024-11,2024,Q4,11,November,Organic,10954.0
+2024-11,2024,Q4,11,November,Paid Search,35567.02
+2024-11,2024,Q4,11,November,LinkedIn Ads,28703.76
+2024-11,2024,Q4,11,November,Referral,7160.0
+2024-11,2024,Q4,11,November,Partner,18992.64
+2024-12,2024,Q4,12,December,Organic,9384.02
+2024-12,2024,Q4,12,December,Paid Search,43982.9
+2024-12,2024,Q4,12,December,LinkedIn Ads,27628.19
+2024-12,2024,Q4,12,December,Referral,8821.95
+2024-12,2024,Q4,12,December,Partner,16220.86
