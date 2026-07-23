@@ -67,10 +67,10 @@ Synthetic data was generated to mimic real SaaS billing and CRM exports:
 | Table | Description | Approx. Rows |
 |---|---|---|
 | `customers.csv` | Customer master — signup date, industry, company size, country | 5,000 |
-| `subscriptions.csv` | Subscription-level records — plan, status, start/end dates | 5,000+ |
-| `revenue.csv` | Monthly recurring revenue transactions per customer | 60,000+ |
-| `marketing_spend.csv` | Monthly spend and new customers by acquisition channel | 60+ |
-| `churn_events.csv` | Churn/downgrade/upgrade events with reason codes | Variable |
+| `subscriptions.csv` | Subscription-level records — plan, status, start/end dates | 5,000 |
+| `monthly_revenue.csv` | Monthly recurring revenue transactions per customer | 68,490 |
+| `marketing_spend.csv` | Monthly spend and new customers by acquisition channel | 180 |
+| `subscription_events.csv` | Churn/downgrade/upgrade and subscription events with event type | 10,707 |
 
 ---
 
