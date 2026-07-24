@@ -174,6 +174,9 @@ Synthetic data was generated to mimic real SaaS billing and CRM exports:
 | `marketing_spend.csv` | Monthly spend and new customers by acquisition channel | 180 |
 | `subscription_events.csv` | Churn/downgrade/upgrade and subscription events with event type | 10,707 |
 
+
+![Data Model](ScreenShots/PowerBI_Star_Schema.png)
+
 ---
 
 ## 📈 Headline Metrics (as modeled)
