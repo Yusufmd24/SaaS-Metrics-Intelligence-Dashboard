@@ -204,7 +204,7 @@ Synthetic data was generated to mimic real SaaS billing and CRM exports:
 
 ---
 
-💡 Key Business Insights & Strategic Recommendations
+💡 Key Business Insights & Recommendations
 
 Headline Finding: Growth Is Outrunning Retention
 
