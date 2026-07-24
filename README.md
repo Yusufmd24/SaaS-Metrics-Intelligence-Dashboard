@@ -121,6 +121,33 @@ This solution was built to answer five core business questions.
 
 ---
 
+# 🏗️ Solution Architecture
+
+```text
+Synthetic SaaS Dataset
+        │
+        ▼
+Python
+• Data Cleaning
+• Validation
+• EDA
+        │
+        ▼
+SQL Server
+• Data Modeling
+• Relational Database
+        │
+        ▼
+Power BI
+• Power Query
+• DAX
+• Interactive Dashboards
+        │
+        ▼
+Business Insights
+```
+
+---
 ## 🚀 Key Features
 
 - **5-page Power BI report** with cross-filtering by Country, Industry, Year, and Plan
