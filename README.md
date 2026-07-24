@@ -19,7 +19,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](ScreenShots/Power BI Dashboard/Executive_Overview.png)
 
 </td>
 
