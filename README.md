@@ -239,22 +239,22 @@ saas-metrics-intelligence-dashboard/
 ├── Dataset/
 │   ├── customers.csv
 │   ├── subscriptions.csv
-│   ├── revenue.csv
+│   ├── monthly_revenue.csv
 │   ├── marketing_spend.csv
-│   └── churn_events.csv
+│   └── subscription_events.csv
 ├── SQL/
 │   └── data_model.sql          # DDL, joins, NULL handling
 ├── Python/
-│   └── saas_eda.py             # Exploratory data analysis
+│   └── SaaS_EDA.ipynb             # Exploratory data analysis
 ├── Power BI/
-│   ├── SaaS_Metrics_Dashboard.pbix
+│   ├── SaaS_Analytics_Dashboard.pbix
 │   └── dax_measures_library.md
 ├── ScreenShots/
-│   ├── executive_overview.png
-│   ├── revenue_analytics.png
-│   ├── customer_analytics.png
-│   ├── subscription_health.png
-│   └── marketing_analytics.png
+│   ├── Executive_Overview.png
+│   ├── Revenue_Analytics.png
+│   ├── Customer_Analytics.png
+│   ├── Subscription_Health.png
+│   └── Marketing_Analytics.png
 └── README.md
 ```
 
