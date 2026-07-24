@@ -204,6 +204,21 @@ Synthetic data was generated to mimic real SaaS billing and CRM exports:
 
 ---
 
+💡 Key Business Insights & Strategic Recommendations
+
+Headline Finding: Growth Is Outrunning Retention
+
+Revenue is growing fast (66.1% MRR YoY), but that growth is driven almost entirely by new-logo acquisition rather than expansion of the existing base. Churned MRR ($201.8K) exceeds Expansion MRR ($146.3K) — for every $1 of expansion revenue, $1.38 is lost to churn. This is confirmed independently by Net Revenue Retention sitting at 93.4%, below the 100% threshold that signals a healthy, compounding customer base.
+
+Theme	Insight	Recommendation
+Revenue & Retention	Churned MRR > Expansion MRR despite strong topline growth; NRR at 93.4%. Churn (15.5%) and renewal rate (84.5%) reconcile exactly across dashboard pages.	Shift resourcing from pure new-logo acquisition toward a dedicated expansion/customer-success motion — the existing base is shrinking faster than it's being grown.
+Customer & Plan Mix	~60% of customers (2,979 of 5,000) sit on the Starter plan; only 841 are on Enterprise. Blended ARPC is $294/month.	Build a Starter → Growth upgrade path (usage-based triggers, in-app prompts). Converting even a small share of Starter accounts moves ARPC without adding CAC.
+Marketing Efficiency	CAC varies ~5x by channel: Paid Search ($1.7K) and LinkedIn Ads ($2.3K) are cheapest; Referral ($8.2K) is the most expensive — the reverse of the typical pattern. LinkedIn Ads has the strongest LTV:CAC ratio despite only 17% of spend, while Paid Search absorbs 39%.	Reallocate spend incrementally from Referral toward LinkedIn Ads/Paid Search, but first audit how Referral CAC is calculated (likely referral-bonus costs fully loaded in).
+Portfolio Resilience	Revenue is evenly spread across industries (Finance 19%, others 15–17%) rather than concentrated in one vertical.	No action needed — flagged as a genuine strength. Low customer concentration reduces revenue risk if any single vertical softens.
+Unit Economics	CAC payback (2.2 months) is comfortably ahead of average customer tenure (14 months) — economics work today.	Monitor closely: at 15.5% churn and sub-100% NRR, the payback margin is more fragile than the headline growth number suggests if churn ticks up further.
+
+---
+
 ## 🛠️ Data Quality & Fixes
 
 A DAX audit surfaced two critical measure bugs that were corrected before finalizing the report:
