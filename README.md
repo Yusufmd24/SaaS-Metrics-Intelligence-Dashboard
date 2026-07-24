@@ -236,20 +236,20 @@ The corrected, validated measures are documented in the DAX measure library incl
 
 ```
 saas-metrics-intelligence-dashboard/
-├── data/
+├── Dataset/
 │   ├── customers.csv
 │   ├── subscriptions.csv
 │   ├── revenue.csv
 │   ├── marketing_spend.csv
 │   └── churn_events.csv
-├── sql/
+├── SQL/
 │   └── data_model.sql          # DDL, joins, NULL handling
-├── python/
+├── Python/
 │   └── saas_eda.py             # Exploratory data analysis
-├── powerbi/
+├── Power BI/
 │   ├── SaaS_Metrics_Dashboard.pbix
 │   └── dax_measures_library.md
-├── screenshots/
+├── ScreenShots/
 │   ├── executive_overview.png
 │   ├── revenue_analytics.png
 │   ├── customer_analytics.png
