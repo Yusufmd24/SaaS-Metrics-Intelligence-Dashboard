@@ -160,6 +160,16 @@ Business Insights
 
 ---
 
+# 📈 Key Business Outcomes
+
+- Centralized SaaS KPIs into a single executive dashboard
+- Reduced reliance on manual reporting by integrating five business domains
+- Built reusable DAX measures for recurring revenue analysis
+- Enabled drill-down analysis across Country, Industry, Pricing Plan and Time
+- Demonstrated end-to-end analytics workflow from raw data to executive reporting
+
+---
+
 ## 🧱 Tech Stack
 
 | Layer | Tools |
@@ -295,4 +305,23 @@ Data Analyst | SQL · Power BI · Python
 
 ---
 
-⭐ If you found this project useful or interesting, consider giving it a star!
+# 💼 Skills Demonstrated
+
+- Business Intelligence
+- SaaS Analytics
+- Data Modeling
+- SQL
+- Python
+- Exploratory Data Analysis
+- DAX
+- Power Query
+- KPI Design
+- Dashboard Storytelling
+- Executive Reporting
+- Data Visualization
+
+---
+
+If you found this project valuable, consider giving the repository a ⭐.
+
+Feedback and suggestions are always welcome.
