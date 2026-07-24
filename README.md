@@ -1,38 +1,123 @@
 # 📊 SaaS Metrics Intelligence Dashboard
 
-**A full-stack revenue analytics case study** — from synthetic data generation and SQL modeling to Python EDA and a 5-page Power BI dashboard tracking MRR, churn, customer economics, and marketing efficiency for a simulated SaaS business.
+> **End-to-End SaaS Business Intelligence Solution using Python, SQL Server & Power BI**
+
+An end-to-end analytics project that transforms raw subscription data into executive-ready business intelligence. This project simulates a B2B SaaS company's customer lifecycle, recurring revenue, subscription events, and marketing performance to help leadership monitor growth, profitability, and customer retention.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-yellow?style=flat-square&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-MS%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue?style=flat-square&logo=python)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 ---
 
-## 🧭 Overview
+# 📸 Dashboard Preview
 
-This project simulates a SaaS company's revenue operations data — **5,000 customers** across 5 relational tables — and builds an end-to-end analytics pipeline to answer the questions a SaaS finance/growth team actually asks:
+<table>
+<tr>
+<td align="center">
 
-- How is **recurring revenue** trending, and where is it coming from?
-- What is driving **churn**, and which segments are most at risk?
-- Is **customer acquisition** efficient relative to lifetime value?
-- Which **plans, industries, and channels** are the healthiest revenue engines?
+### Executive Overview
 
-The deliverable is a **5-page interactive Power BI dashboard**, backed by a documented SQL data model and a full Python-based exploratory data analysis, with a corrected and validated DAX measure library.
+![Executive Overview](screenshots/executive_overview.png)
+
+</td>
+
+<td align="center">
+
+### Revenue Analytics
+
+![Revenue Analytics](screenshots/revenue_analytics.png)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Customer Analytics
+
+![Customer Analytics](screenshots/customer_analytics.png)
+
+</td>
+
+<td align="center">
+
+### Subscription Health
+
+![Subscription Health](screenshots/subscription_health.png)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### Marketing Analytics
+
+![Marketing Analytics](screenshots/marketing_analytics.png)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🖥️ Dashboard Preview
+# 📖 Business Story
 
-| Page | Focus |
-|---|---|
-| **Executive Overview** | Company-wide health snapshot for leadership |
-| **Revenue Analytics** | MRR/ARR trends, MRR bridge, plan & industry revenue mix |
-| **Customer Analytics** | Acquisition, LTV, tenure, and segment-level value |
-| **Subscription Health** | Active/new/churned subscriptions, renewal rate, plan mix |
-| **Marketing Analytics** | CAC, LTV:CAC, payback period, channel ROI |
+Imagine you're the Head of Revenue Operations at a growing SaaS company.
 
-> Screenshots of all 5 pages are available in [`/screenshots`](./screenshots).
+Every month you're expected to answer questions such as:
+
+- Is Monthly Recurring Revenue growing?
+- Are new customers replacing churned customers?
+- Which acquisition channels generate the best ROI?
+- Which pricing plans create the healthiest long-term revenue?
+- Which industries and countries have the highest customer lifetime value?
+- Is customer growth sustainable?
+
+Instead of manually combining CRM exports, billing reports and marketing spreadsheets, this project consolidates all business data into a single interactive Power BI dashboard that enables executives to monitor revenue health in real time.
+
+---
+
+# 🎯 Business Objectives
+
+This solution was built to answer five core business questions.
+
+### Revenue Intelligence
+
+- Monitor Monthly & Annual Recurring Revenue
+- Track Expansion and Churn MRR
+- Measure YoY Revenue Growth
+- Understand pricing plan performance
+
+---
+
+### Customer Intelligence
+
+- Measure customer acquisition
+- Track customer lifetime value
+- Analyze customer tenure
+- Compare industries and company sizes
+
+---
+
+### Subscription Intelligence
+
+- Monitor active subscriptions
+- Measure renewal performance
+- Analyze churn behavior
+- Track subscription growth momentum
+
+---
+
+### Marketing Intelligence
+
+- Measure Customer Acquisition Cost
+- Evaluate LTV:CAC Ratio
+- Monitor marketing efficiency
+- Compare acquisition channels
+- Analyze geographic revenue distribution
 
 ---
 
