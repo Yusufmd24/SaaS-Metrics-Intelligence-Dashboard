@@ -19,7 +19,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Executive Overview
 
-![Executive Overview](ScreenShots/Power BI Dashboard/Executive_Overview.png)
+![Executive Overview](ScreenShots/Power%20BI%20Dashboard/Executive_Overview.png)
 
 </td>
 
@@ -27,7 +27,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Revenue Analytics
 
-![Revenue Analytics](screenshots/revenue_analytics.png)
+![Revenue Analytics](ScreenShots/Power%20BI%20Dashboard/Revenue_Analytics.png)
 
 </td>
 </tr>
@@ -37,7 +37,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](ScreenShots/Power%20BI%20Dashboard/Customer_Analytics.png)
 
 </td>
 
@@ -45,7 +45,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Subscription Health
 
-![Subscription Health](screenshots/subscription_health.png)
+![Subscription Health](ScreenShots/Power%20BI%20Dashboard/Subscription_Health.png)
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ An end-to-end analytics project that transforms raw subscription data into execu
 
 ### Marketing Analytics
 
-![Marketing Analytics](screenshots/marketing_analytics.png)
+![Marketing Analytics](ScreenShots/Power%20BI%20Dashboard/Marketing_Analytics.png)
 
 </td>
 </tr>
