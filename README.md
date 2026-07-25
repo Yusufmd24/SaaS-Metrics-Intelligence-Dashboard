@@ -244,8 +244,8 @@ saas-metrics-intelligence-dashboard/
 │   └── subscription_events.csv
 ├── SQL/
 │   └── Table_Creation.sql          # DDL, joins, NULL handling
-    └── Load_Warehouse.sql
-    └── Business_Analysis.sql       # Answering business questions
+│   └── Load_Warehouse.sql
+│   └── Business_Analysis.sql       # Answering business questions
 ├── Python/
 │   └── SaaS_EDA.ipynb             # Exploratory data analysis
 ├── Power BI/
