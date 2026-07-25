@@ -243,11 +243,14 @@ saas-metrics-intelligence-dashboard/
 │   ├── marketing_spend.csv
 │   └── subscription_events.csv
 ├── SQL/
-│   └── data_model.sql          # DDL, joins, NULL handling
+│   └── Table_Creation.sql          # DDL, joins, NULL handling
+    └── Load_Warehouse.sql
+    └── Business_Analysis.sql       # Answering business questions
 ├── Python/
 │   └── SaaS_EDA.ipynb             # Exploratory data analysis
 ├── Power BI/
 │   ├── SaaS_Analytics_Dashboard.pbix
+│   ├── SaaS_Analytics_Dashboard.pdf
 │   └── dax_measures_library.md
 ├── ScreenShots/
 │   ├── Executive_Overview.png
