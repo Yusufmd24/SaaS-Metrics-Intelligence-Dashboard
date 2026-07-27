@@ -251,7 +251,7 @@ saas-metrics-intelligence-dashboard/
 ├── Power BI/
 │   ├── SaaS_Analytics_Dashboard.pbix
 │   ├── SaaS_Analytics_Dashboard.pdf
-│   └── dax_measures_library.md
+│   └── Dax_Measure_Library.md
 ├── ScreenShots/
 │   ├── Executive_Overview.png
 │   ├── Revenue_Analytics.png
@@ -302,9 +302,9 @@ This project was built to demonstrate practical SaaS/subscription analytics skil
 ## 👤 Author
 
 **Yusuf**
-Data Analyst | SQL · Power BI · Python \n
-📧 mdyusuf911@gmail.com \n
-💼 [LinkedIn.com/mdyusuf-analytics](https://www.linkedin.com/in/mdyusuf-analytics/) \n
+Data Analyst | SQL · Power BI · Python <br>
+📧 mdyusuf911@gmail.com <br>
+💼 [LinkedIn.com/mdyusuf-analytics](https://www.linkedin.com/in/mdyusuf-analytics/) <br>
 💻 [github.com/Yusufmd24](https://github.com/Yusufmd24)
 
 ---
