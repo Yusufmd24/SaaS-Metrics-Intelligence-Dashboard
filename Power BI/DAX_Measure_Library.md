@@ -11,7 +11,7 @@ This document catalogs every measure in the model, grouped by measure table with
 ## Table of Contents
 
 1. [_Measures_Executive](#_measures_executive) — 15 measures
-2. [_Measures_Revenue](#_measures_revenue) — 14 measures (includes 2 debug/leftover measures flagged for removal)
+2. [_Measures_Revenue](#_measures_revenue) — 14 measures 
 3. [_Measures_Customers](#_measures_customers) — 10 measures
 4. [_Measures_Subsciption](#_measures_subsciption) — 6 measures
 5. [_Measures_Marketing](#_measures_marketing) — 9 measures
@@ -390,32 +390,6 @@ DIVIDE(
 **Format:** `$#,0.0` · **Description:** Annualized version of `Historical MRR`.
 **Depends on:** `Historical MRR`
 
----
-
-⚠️ **Debug/leftover measures — not used in any visual, recommended for removal before submitting the model:**
-
-### `Test Previous Year Sales`
-
-```dax
-CALCULATE(
-    [Total MRR],
-    DATEADD(Dim_Date[Date], -1, YEAR)
-)
-```
-
-**Description:** Identical formula to `Previous Year MRR`, apparently a scratch/test duplicate left in the model during development.
-**Depends on:** `Total MRR`
-
-
-
-### `Rows Visible`
-
-```dax
-COUNTROWS(monthly_revenue)
-```
-
-**Description:** Row-count diagnostic measure, typically used to debug filter context while building visuals. Not referenced by any report page.
-**Depends on:** none
 
 ---
 
