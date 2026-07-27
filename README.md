@@ -135,7 +135,7 @@ This solution was built to answer five core business questions.
 - **Corrected DAX logic** for previously broken/misleading measures (see [Data Quality & Fixes](#-data-quality--fixes))
 - **Synthetic but realistic dataset** — 5,000 customers, 12-month history, 5 relational CSV tables
 - **Full Python EDA** covering distribution checks, cohort trends, and churn/revenue correlations
-- **SQL data model** with clean star-schema-style joins and explicit NULL handling
+- **SQL data model** with clean star-schema-style joins for revenue and event fact tables
 - Deliberately **corporate/light aesthetic** (rather than dark-themed) to demonstrate design range across audiences
 
 ---
@@ -280,8 +280,8 @@ saas-metrics-intelligence-dashboard/
 
 The SQL layer (MS SQL Server) handles:
 - Table creation and constraints for all 5 entities
-- Explicit handling of NULLs (e.g., customers with no churn date, in-progress subscriptions)
 - Joins structured to support a clean star-schema import into Power BI's data model
+- The source data includes NULLs by design (e.g., blank end_date for the 3,374 subscriptions still active) — handled at the Power BI/DAX layer via CALCULATE filter logic rather than in the SQL DDL, since the current warehouse schema tracks revenue and event facts rather than subscription-level records directly.
 
 ---
 
