@@ -289,9 +289,10 @@ The SQL layer (MS SQL Server) handles:
 
 1. Clone the repo
 2. Load the CSVs in `Dataset/` into SQL Server using the schema in `SQL/Table_Creation.sql` and `SQL/Load_Warehouse.sql`, **or** connect Power BI directly to the CSVs
-3. Open `Power BI/SaaS_Analytics_Dashboard.pbix` in Power BI Desktop
-4. Refresh the data source connection to point to your local files/database
-5. Run `Python/SaaS_EDA.ipynb` (requires `pandas`, `matplotlib`, `seaborn`) to reproduce the EDA charts
+3. Note: the published .pbix connects directly to the CSVs in Dataset/ (table names match the raw files — subscriptions, customers, etc.). The SQL/ scripts model a parallel warehouse schema (Dim_Customer, Fact_Revenue, etc.) demonstrating how this data would be structured for a production SQL Server pipeline; it is not the live source for the current Power BI report.
+4. Open `Power BI/SaaS_Analytics_Dashboard.pbix` in Power BI Desktop
+5. Refresh the data source connection to point to your local files/database
+6. Run `Python/SaaS_EDA.ipynb` (requires `pandas`, `matplotlib`, `seaborn`) to reproduce the EDA charts
 
 ---
 
