@@ -286,10 +286,10 @@ The SQL layer (MS SQL Server) handles:
 ## ⚙️ How to Use
 
 1. Clone the repo
-2. Load the CSVs in `/data` into SQL Server using the schema in `sql/data_model.sql`, **or** connect Power BI directly to the CSVs
-3. Open `powerbi/SaaS_Metrics_Dashboard.pbix` in Power BI Desktop
+2. Load the CSVs in `Dataset/` into SQL Server using the schema in `SQL/Table_Creation.sql` and `SQL/Load_Warehouse.sql`, **or** connect Power BI directly to the CSVs
+3. Open `Power BI/SaaS_Analytics_Dashboard.pbix` in Power BI Desktop
 4. Refresh the data source connection to point to your local files/database
-5. Run `python/saas_eda.py` (requires `pandas`, `matplotlib`, `seaborn`) to reproduce the EDA notebooks/charts
+5. Run `Python/SaaS_EDA.ipynb` (requires `pandas`, `matplotlib`, `seaborn`) to reproduce the EDA charts
 
 ---
 
@@ -304,6 +304,7 @@ This project was built to demonstrate practical SaaS/subscription analytics skil
 **Yusuf**
 Data Analyst | SQL · Power BI · Python
 📧 mdyusuf911@gmail.com
+💼 [LinkedIn.com/mdyusuf-analytics](https://www.linkedin.com/in/mdyusuf-analytics/)
 💻 [github.com/Yusufmd24](https://github.com/Yusufmd24)
 
 ---
