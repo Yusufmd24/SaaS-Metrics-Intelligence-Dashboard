@@ -186,6 +186,8 @@ Synthetic data was generated to mimic real SaaS billing and CRM exports:
 - Active Customers: **5,000** · Customer Churn: **15.5%**
 - Average Customer LTV: **$3,712** · Avg CAC: **$634**
 
+Note: Churn Rate (15.5%) is calculated as churn events ÷ total subscription events in the period — a different denominator than raw subscription-level churn (32.5% of all subscription rows are flagged churned), which reflects cumulative churn over the full dataset window rather than in-period activity.
+
 **Revenue**
 - MRR YoY Growth: **66.1%**
 - Expansion MRR: **$146.3K** · Churned MRR: **$201.8K**
